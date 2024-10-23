@@ -1,0 +1,9 @@
+Link0=[0;0;0];
+Joint1=Qx(-pi/2)*(Link0+[0;0;73.5])
+Link1=Qx(pi/2)*Joint1 + [-200;0;0];
+Joint2=Link1+[200;80;78]
+Link2=Joint2+[-73;-83;-79];
+Joint3=Link2+[470;90;200]
+Link3=Joint3+[-400;-90;-200];
+Joint4=Link3+[650;70;280]
+Link4=Joint4+[-650;0;-345];
