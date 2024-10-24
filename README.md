@@ -7,4 +7,4 @@ Project 2: Kinematics and dynamics modeling of SCARA robotic arm using Matlab an
 
 Project 3: Implementing character drawing and rotation in ROS using turtlesim, with Python scripts and launch files for automated operations.
 
-Project 4: Developing an automated system using deep learning (YOLO v8) for object detection and segmentation to efficiently pack custom catering packages in a sanitized industrial environment.
+Project 4: Developing an automated system using deep learning (YOLO v8 and Segment Anything Mode(SAM)) for object detection and segmentation to efficiently pack custom catering packages and enhance robotic manipulation.
